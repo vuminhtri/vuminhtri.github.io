@@ -1,0 +1,234 @@
+.body{
+    font-family: Roboto;
+
+}
+.one{
+    font-style: normal;
+    position: relative;
+    width: 595px;
+    height: 841px;
+    background: #FFFFFF;
+    border: 1px dotted black;
+}
+#headerleft {
+    border: 1px dotted black;
+    position: absolute;
+    width: 218px;
+    height: 62px;
+    right: 341px;
+    top: 49px;
+    display: flex;
+    align-items: center;
+    color: #5D5C5C;
+}
+.name{
+    text-transform: uppercase;
+    position: absolute;
+    width: 200px;
+    height: 48px;
+    left: 0px;
+    top: 0px;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 48px;
+}
+.profession{
+    text-transform: uppercase;
+    position: absolute;
+    width: 218px;
+    height: 21px;
+    left: 0px;
+    top: 41px;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 20px;
+}
+#headerright{
+    border: 1px dotted black;
+    position: absolute;
+    margin: auto;
+    left: 387px;
+    top: 53px;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+}
+#pro2{
+    line-height: 16px;
+}
+
+
+#profile{
+    border: 1px dotted black;
+    position: absolute;
+    width: 520px;
+    height: 66px;
+    left: 36px;
+    top: 165px;
+}
+.uppercase{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    color: #5D5C5C;
+}
+#experience{
+    border: 1px dotted black;
+    position: absolute;
+    width: 487px;
+    height: 234px;
+    right: 72px;
+    top: 289px;
+}
+.italic{
+    position: absolute;
+    font-style:italic;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    display: flex;
+    align-items: center;
+    color: #757474;
+}
+#vinus{
+    width: 151px;
+    height: 14px;
+    left: 1px;
+    top: 41px;
+}
+#senior{
+    width: 187px;
+    height: 14px;
+    left: 1px;
+    top: 104px;
+}
+.uppercase1{
+    text-transform: uppercase;
+    position: absolute;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 14px;
+    display: flex;
+    align-items: center;
+    color: #757474;
+}
+#beginner{
+    width: 177px;
+    height: 14px;
+    left: 2px;
+    top: 27px;
+}
+#creative1{
+    width: 168px;
+    height: 14px;
+    left: 1px;
+    top: 118px;
+}
+.lowercase{
+    position: absolute;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    display: flex;
+    align-items: center;
+    color: #8C8B8B;
+}
+#job{
+    width: 142px;
+    height: 14px;
+    left: 0px;
+    top: 181px;
+}
+#company{
+    width: 171px;
+    height: 14px;
+    left: 1px;
+    top: 194px;
+}
+#paragragh1{
+    width: 485px;
+    height: 25px;
+    left: 2px;
+    top: 54px;
+}
+#paragragh2{
+    width: 485px;
+    height: 25px;
+    left: 2px;
+    top: 131px;
+}
+#paragragh3{
+    width: 485px;
+    height: 24px;
+    left: 2px;
+    top: 208px;
+}
+#education{
+    border: 1px dotted black;
+    position: absolute;
+    width: 486px;
+    height: 208px;
+    right: 73px;
+    bottom: 52px;
+}
+#bachelor{
+    width: 140px;
+    height: 14px;
+    left: 1px;
+    top: 28px;
+}
+#science{
+    width: 145px;
+    height: 14px;
+    left: 1px;
+    top: 91px;
+}
+#arts{
+    width: 126px;
+    height: 14px;
+    left: 1px;
+    top: 155px;
+}
+#posts{
+    width: 375px;
+    height: 14px;
+    left: 0px;
+    top: 41px;
+}
+#devine{
+    width: 179px;
+    height: 14px;
+    left: 0px;
+    top: 104px;
+}
+#creative2{
+    width: 185px;
+    height: 14px;
+    left: 0px;
+    top: 168px;
+}
+#lorem1{
+    width: 515px;
+    height: 25px;
+    left: 1px;
+    top: 54px;
+}
+#lorem2{
+    width: 515px;
+    height: 24px;
+    left: 1px;
+    top: 118px;
+}
+#lorem3{
+    width: 515px;
+    height: 25px;
+    left: 1px;
+    top: 181px;}
