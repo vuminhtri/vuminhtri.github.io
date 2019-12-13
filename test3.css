@@ -1,0 +1,153 @@
+.one{
+    display: flex;
+    flex-direction: column;
+    border: 1px dashed black;
+    margin: auto;
+    font-style: normal;
+    position: relative;
+    width: 595px;
+    height: 841px;
+    background: #FFFFFF;
+}
+#top{
+    display: flex;
+    flex-direction: row;
+    margin-top: 49px;
+    margin-left: 36px;
+}
+#headerleft {
+    display: flex;
+    flex-direction: column;
+    color: #5D5C5C;
+}
+.name{
+    display: block;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 48px;
+}
+.profession{
+    display: block;
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 20px;
+}
+#headerright{
+    display: flex;
+    margin-left: 205px;
+    margin-top: 3px;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 16px;
+    align-items: center;
+    text-align: right;
+}
+#pro2{
+    line-height: 16px;
+}
+#profile{
+    margin-top: 68px;
+    margin-left: 36px;
+}
+.uppercase{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    color: #5D5C5C;
+}
+#experience{
+    display: inline-block;
+    margin-top: 60px;
+    margin-left: 36px;
+}
+.italic{
+    font-style:italic;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    display: flex;
+    align-items: center;
+    color: #757474;
+}
+#vinus{
+    margin-top: 4px;
+}
+#senior{
+    margin-top: 27px;
+}
+.uppercase1{
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 14px;
+    display: flex;
+    align-items: center;
+    color: #757474;
+}
+#beginner{
+    margin-top: 7px;
+}
+#creative1{
+    margin-top: 0px;
+}
+.lowercase{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    display: flex;
+    align-items: center;
+    color: #8C8B8B;
+}
+#job{
+    margin-top: 25px;
+}
+#company{
+    margin-top: -1px;
+}
+#paragragh1{
+    margin-top: -1px;
+}
+#paragragh2{
+    margin-top: -1px;
+}
+#paragragh3{
+    margin-top: 0px;
+}
+#education{
+    margin-top: 58px;
+    margin-left: 36px;
+}
+#bachelor{
+    margin-top: 13px;
+}
+#science{
+    margin-top:13px ;
+}
+#arts{
+    margin-top: 13px;
+}
+#posts{
+    margin-top: -1px;
+}
+#devine{
+    margin-top: -1px;
+}
+#creative2{
+    margin-top: -1px;
+}
+#lorem1{
+    margin-top: -1px;
+}
+#lorem2{
+    margin-top: 0px;
+}
+#lorem3{
+    margin-top: -1px
+}
